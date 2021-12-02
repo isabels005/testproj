@@ -13,7 +13,8 @@ public class Testproj {
 
     public static void main(String[] args) {
         System.out.println("your mom joke");
-        
+        System.out.println("gjseigvnosiergnsngiorz");
+
     }
     public void OwO()
     {
