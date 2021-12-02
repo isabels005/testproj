@@ -12,14 +12,11 @@ package testproj;
 public class Testproj {
 
     public static void main(String[] args) {
-        System.out.println("your mom joke"); 
-        ///coowjgjgr4gsokfmtgdeivbkf
+        System.out.println("your mom joke");
+        
     }
-    
-}
-
-public class Class2 {
-//code
-        System.out.println("your mom joke"); 
-
+    public void OwO()
+    {
+    System.out.println("no you"); 
+    }
 }
