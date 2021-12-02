@@ -19,4 +19,9 @@ public class Testproj {
     {
     System.out.println("no you"); 
     }
+    
+    public boolean E()
+            {
+                return true;
+            }
 }
