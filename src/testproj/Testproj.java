@@ -21,8 +21,19 @@ public class Testproj {
     System.out.println("no you"); 
     }
     
-    public boolean E()
-            {
-                return true;
-            }
+    public void E()
+    {
+        System.out.println("Hello fellow kids");
+    }
+    
+    public boolean Joe()
+    {
+        int Mama = 1;
+        
+        if(Mama > 0)
+            return true;
+        
+        else
+            return false;
+    }
 }
