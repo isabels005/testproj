@@ -5,11 +5,7 @@ public class Testproj {
     public static void main(String[] args) {
         System.out.println("your mom joke");
         System.out.println("gjseigvnosiergnsngiorz");
-        System.out.println("knock knock");
-        System.out.println("whos there?");
-        System.out.println("your mom");
-        System.out.println("your mom who?");
-        System.out.println("your mom succs");
+        System.out.println("this is gonna be annoying if we dont know who is doing what so lets figure that out");
     }
     public void OwO()
     {
